@@ -4,7 +4,7 @@ The project follows an ETL-style data pipeline implemented in Microsoft SQL Serv
 The pipeline follows the Medallion Architecture pattern:
 Bronze → Silver → Gold
 
-![Data_flow](docs/data_flow.png)
+![Data_flow](data_flow.png)
 
 # 1️⃣ Data Sources
 
@@ -46,7 +46,7 @@ Data ingestion is performed using:
 - Local CSV datasets
 
 ## Conceptual Bronze tables:
-![Data Architecture](docs/tables_diagram.png)
+![Data Architecture](tables_diagram.png)
 
 Conceptual ingestion flow:
 ```
