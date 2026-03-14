@@ -38,7 +38,9 @@ The dataset includes information such as:
 - Tax amounts and outstanding debts
 - Entities assigned to the liens
 Using this dataset, the project builds a data warehouse-style analytical structure that allows users to explore trends in tax debt, municipal activity, and property-level liabilities.
-The project demonstrates how raw public data can be transformed into a structured analytical system using SQL Server.
+The project demonstrates how raw public data can be transformed into a structured analytical system using SQL Server and crating a dashboard made in Excel.
+
+![dashboard](docs/dashboard.png)
 
 ---
 
