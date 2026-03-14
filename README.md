@@ -157,7 +157,6 @@ This repository is part of my **technical portfolio**, where I showcase projects
 leandrogallo698@gmail.com
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-005571?style=for-the-badge)
 ![ETL Pipeline](https://img.shields.io/badge/ETL-Pipeline-blue?style=for-the-badge)
 ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-FF6F00?style=for-the-badge)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4CAF50?style=for-the-badge)
