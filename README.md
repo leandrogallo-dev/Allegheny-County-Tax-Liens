@@ -24,7 +24,10 @@ Bronze → Silver → Gold
 
 3. **Gold Layer**: Provides analytics-ready datasets designed for reporting, dashboards, and data analysis. This layer includes aggregated metrics and optimized views.
 
+4. **Data Understanding**: [Data Flow](docs/data_flow.md)
+
 ---
+
 # 📖 Project Overview
 
 This project uses the Allegheny County Tax Liens public dataset, which contains records of tax liens filed against properties due to unpaid taxes.
